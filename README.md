@@ -1,2 +1,2 @@
-# rnn_song_generator
-RNN implementation for song generation
+# rnn_text_generator
+LSTM Keras implementation to generate text based on the arbitrary text dataset
